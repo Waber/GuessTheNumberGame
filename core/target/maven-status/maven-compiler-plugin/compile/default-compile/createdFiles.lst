@@ -1,0 +1,10 @@
+academy\MessageGenerator.class
+academy\Game.class
+academy\GameImpl.class
+academy\MinNumber.class
+academy\config\GameConfig.class
+academy\MaxNumber.class
+academy\GuessCount.class
+academy\MessageGeneratorImpl.class
+academy\NumberGenerator.class
+academy\NumberGeneratorImpl.class
